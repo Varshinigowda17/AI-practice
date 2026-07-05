@@ -1,2 +1,2 @@
 # AI-practice
-built ANN models by use Customer  churn data
+Artificial Neural Network model to predict customer churn using Python, TensorFlow, Keras, Pandas, and Scikit-learn.
